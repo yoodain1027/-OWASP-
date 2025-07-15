@@ -28,14 +28,13 @@
 
 
 
-
-
-
-
-   
-
 문제 1번. <iframe src="javascript:alert(`xss`)">를 사용하여 DOM XSS 공격 수행
 
+
+문제를 풀려고 시도하면
+For this challenge, we'll take a close look at the Search field at the top of the screen. 라고 안내 문구가 뜬다.
+
+"이번 과제에서는 화면 상단에 있는 검색 필드를 자세히 살펴볼 것입니다." 라는 뜻인데 이를 참고해서 
 
 
 
