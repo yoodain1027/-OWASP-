@@ -34,7 +34,19 @@
 문제를 풀려고 시도하면
 For this challenge, we'll take a close look at the Search field at the top of the screen. 라고 안내 문구가 뜬다.
 
-"이번 과제에서는 화면 상단에 있는 검색 필드를 자세히 살펴볼 것입니다." 라는 뜻인데 이를 참고해서 
+"이번 과제에서는 화면 상단에 있는 검색 필드를 자세히 살펴볼 것입니다." 라는 뜻
+
+문구에 따라 문제에 나와있는 <iframe src="javascript:alert(`xss`)"> 문구를 검색 필드에 그대로 치면 'xss'라고 문구가 뜬다. 
+
+
+
+<img width="727" height="251" alt="스크린샷 2025-07-15 184637" src="https://github.com/user-attachments/assets/5d7dbc19-4e33-4388-9086-a79e61cd1404" />
+
+
+
+
+<img width="811" height="216" alt="스크린샷 2025-07-15 184619" src="https://github.com/user-attachments/assets/558f91d2-cacc-42ab-a255-40bc69fe5224" />
+
 
 
 
