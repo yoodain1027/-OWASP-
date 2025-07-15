@@ -28,6 +28,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 문제 1번. <iframe src="javascript:alert(`xss`)">를 사용하여 DOM XSS 공격 수행
 
 
