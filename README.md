@@ -17,8 +17,11 @@
    
    http://localhost:3000/#/administration로 이동하면 admin 계정으로 로그인 된 것 확인 가능
 
-5. 숨겨진 점수판 페이지 찾기
+5. 숨겨진 점수판 페이지 찾기-
+
+   
    4번 과정과 동일하게 점수를 영어로 변경한 score을 검색하면 똑같이 path 근처에 있는 계정 이름 확인 가능
+   
    http://localhost:3000/#/score-board로 이동하면 해킹 챌린지 문제를 풀 수 있음
 
 6. 
