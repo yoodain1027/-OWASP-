@@ -24,7 +24,12 @@
    
    http://localhost:3000/#/score-board로 이동하면 해킹 챌린지 문제를 풀 수 있음
 
-6. 
+
+   
+
+문제 1번. <iframe src="javascript:alert(`xss`)">를 사용하여 DOM XSS 공격 수행
+
+
 
 
 
